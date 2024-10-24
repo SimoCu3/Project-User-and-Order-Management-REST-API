@@ -33,7 +33,7 @@ Crea un'applicazione Spring Boot che gestisca utenti e ordini. L'applicazione de
      - `id` (Long)
      - `name` (String)
      - `email` (String)
-     - `phoneNumber` (String)
+     - `password` (String)
    
    - **Entità Ordine:**
      - `id` (Long)
